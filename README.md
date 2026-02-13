@@ -11,18 +11,15 @@ Connect with me on LinkedIn
 </p>
 
 <!-- GIF -->
-<img align="right" height="280" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ---
 
-### 🚀 About Me
+## 🚀 Professional Summary
 
-- 🔧 DevOps & Cloud Enthusiast working with AWS, Docker & Kubernetes  
-- 💻 Building projects using React, Django & WordPress  
-- 📚 Currently learning: LLMs, Generative AI, LangChain & Cloud Deployment  
-- 🎯 Interested in Microservices & Cloud-native Architecture  
-- 🤝 Open to collaborating on Cloud-native & AI Projects  
-- 🎥 I also create tech content on YouTube  
+DevOps Engineer with 3+ years of experience working with Cloud infrastructure, CI/CD pipelines, and containerized applications.  
+Strong interest in Cloud-native architecture, Microservices, and AI-powered systems.  
+Experienced in building and deploying scalable full-stack applications.
 
 ---
 
@@ -38,14 +35,34 @@ Connect with me on LinkedIn
 
 ---
 
-## 🌐 Frontend & Backend
+## 🎨 Frontend Development
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
+</p>
+
+- Building responsive UI with React  
+- Cross-platform mobile app development using Flutter  
+- Modern UI/UX focused web interfaces  
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/>
 </p>
+
+- REST API development with Django  
+- Database design & optimization  
+- WordPress backend & custom development  
 
 ---
 
@@ -62,28 +79,39 @@ Connect with me on LinkedIn
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" width="40"/>
 </p>
 
+- CI/CD automation  
+- Infrastructure as Code (Terraform, Ansible)  
+- Containerization & Orchestration  
+- Cloud deployment & monitoring  
+
 ---
 
-## 🛠 Tools & Project Management
+## 🛠 Tools & Version Control
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png" width="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-- 💼 LinkedIn: https://www.linkedin.com/in/hemlalbhattarai/
-- 📧 Email: bhattaraihemlal8@gmail.com
-- 💬 Ask me about DevOps, Cloud, React or Django
+- Large Language Models (LLMs)  
+- Generative AI & LangChain  
+- Advanced Kubernetes & Cloud Architecture  
 
 ---
 
-### ⚡ Fun Fact
-I love building real-world projects and deploying them on Cloud 🚀
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hemlalbhattarai/
+- 📧 Email: bhattaraihemlal8@gmail.com
+- 💬 Open to collaboration on DevOps, Cloud & Full-Stack projects  
+
+---
+
+### ⚡ Personal Note
+I enjoy building real-world applications and deploying them to scalable cloud infrastructure 🚀
